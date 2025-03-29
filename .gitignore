@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.swp
+*.env
+
+# Keyring
+*.keyring
+
+# IDE
+.vscode/
+.idea/
+
