@@ -2,7 +2,7 @@
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
-[![GitHub Release](https://img.shields.io/github/release/[JoJuStudio]/home-assistant-button-controller.svg)](https://github.com/[yourusername]/home-assistant-button-controller/releases)
+[![GitHub Release](https://img.shields.io/github/release/[JoJuStudio]/home-assistant-button-controller.svg)](https://github.com/[JoJuStudio]/home-assistant-button-controller/releases)
 
 A secure Python utility for controlling Home Assistant buttons via REST API with system keyring integration.
 
